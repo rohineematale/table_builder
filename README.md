@@ -1,5 +1,7 @@
-<a href="http://travis-ci.org/watu/table_builder"><img src="https://secure.travis-ci.org/watu/table_builder.png" alt="Continuous integration status"/></a>
-
+[![Build Status](https://travis-ci.org/watu/table_builder.png?branch=master)](https://travis-ci.org/watu/table_builder)
+[![Coverage Status](https://coveralls.io/repos/watu/table_builder/badge.png)](https://coveralls.io/r/watu/table_builder)
+[![Code Climate](https://codeclimate.com/github/watu/table_builder.png)](https://codeclimate.com/github/watu/table_builder)
+[![Gem Version](https://badge.fury.io/rb/watu_table_builder.png)](http://badge.fury.io/rb/watu_table_builder)
 
 About watu_table_builder
 ========================
