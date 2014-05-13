@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+
 $:.push File.expand_path("../lib", __FILE__)
 require "table_builder/version"
 
@@ -10,6 +11,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/watu/table_builder"
   s.summary     = %q{Rails builder for creating tables and calendars inspired by ActionView's FormBuilder.}
   s.description = %q{Rails builder for creating tables and calendars inspired by ActionView's FormBuilder.}
+  spec.license  = "MIT"
 
   s.rubyforge_project = "table_builder"
 
